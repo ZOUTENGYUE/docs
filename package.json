@@ -150,7 +150,7 @@
     "jest-slow-test-reporter": "^1.0.0",
     "kill-port": "2.0.1",
     "linkinator": "4.0.2",
-    "lint-staged": "^13.0.1",
+    "lint-staged": "^15.2.9",
     "make-promises-safe": "^5.1.0",
     "minimatch": "^7.0.0",
     "mkdirp": "^2.1.3",
